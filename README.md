@@ -1,50 +1,201 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================================================= -->
+<!--                    ANISH DANDAPAT                          -->
+<!--                  GITHUB PROFILE README                     -->
+<!-- ========================================================= -->
+
 <h1 align="center">Hi 👋, I'm Anish Dandapat</h1>
+
+<h3 align="center">
+  Flutter Developer 📱 • Mobile App Builder 🚀 • Product Developer
+</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Building+real-world+mobile+apps+%26+products+%F0%9F%9A%80;Firebase+%7C+Supabase+%7C+REST+APIs;Learning+Backend+%E2%80%A2+Next.js+%E2%80%A2+MongoDB" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=750&lines=Flutter+Developer+%F0%9F%93%B1;Building+Real-World+Mobile+Apps+%F0%9F%9A%80;Firebase+%7C+Supabase+%7C+REST+APIs;Exploring+Backend+Development+%F0%9F%8C%B1;Next.js+%7C+MongoDB+%7C+Node.js"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishdandapatdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/anishdandapatdev?label=Followers&style=flat&logo=github&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanishdandapatdev&style=flat&logo=github&color=0e75b6" alt="Total repos" />
+  <img
+    src="https://komarev.com/ghpvc/?username=anishdandapatdev&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+  
+  <a href="https://github.com/anishdandapatdev?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/anishdandapatdev?label=Followers&style=for-the-badge&logo=github&color=0e75b6"
+      alt="Followers"
+    />
+  </a>
+
+  <a href="https://github.com/anishdandapatdev?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Public%20Repos-Explore-0e75b6?style=for-the-badge&logo=github"
+      alt="Repositories"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anishdandapat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/makstudy.in"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:anishdandapat.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.anish.makstudy"><img src="https://img.shields.io/badge/Google_Play-MAKstudy-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="MAKstudy on Google Play" /></a>
+
+  <a href="https://linkedin.com/in/anishdandapat">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:anishdandapat.dev@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=com.anish.makstudy">
+    <img
+      src="https://img.shields.io/badge/MAKstudy-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white"
+      alt="MAKstudy"
+    />
+  </a>
+
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[MAKstudy](https://play.google.com/store/apps/details?id=com.anish.makstudy)**
-- 🌱 Currently learning **Backend Development • Next.js • MongoDB • REST APIs**
-- 💬 Ask me about **Flutter • Mobile App Development • Firebase • Supabase • REST APIs • App Deployment**
+I'm a **Flutter Developer** focused on building practical, production-ready mobile applications and digital products.
+
+I enjoy taking an idea from:
+
+**💡 Idea → 🎨 UI/UX → 📱 Development → 🔌 Backend → 🧪 Testing → 🚀 Deployment**
+
+- 🔭 Currently building & maintaining **MAKstudy**
+- 📱 Specialized in **Flutter & Mobile App Development**
+- 🔥 Working with **Firebase & Supabase**
+- 🔌 Building and integrating **REST APIs**
+- 🤖 Exploring **AI-powered application features**
+- 🌱 Currently learning **Backend Development • Next.js • MongoDB • Node.js**
+- 🚀 Interested in building **real-world products**, not just demo projects
+- 💬 Ask me about **Flutter • Firebase • Supabase • REST APIs • App Deployment**
 - 📫 Reach me at **anishdandapat.dev@gmail.com**
-- ⚡ Fun fact: **I started with Flutter and ended up building, launching & maintaining real-world apps.**
+- ⚡ Fun fact: **I turn ideas into apps, one commit at a time. 🚀**
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📱 Mobile Development
+
+- Flutter
+- Dart
+- Android
+- iOS
+- State Management
+- REST API Integration
+- Firebase
+- Supabase
+- App Deployment
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Backend Development
+
+- Next.js
+- Node.js
+- MongoDB
+- REST APIs
+- Authentication
+- API Architecture
+- Database Design
+- Server-side Development
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,kotlin,swift,android,react,nodejs,mongodb,ts,cpp,html,css,git,github,gcp,postman&perline=9" alt="Tech stack" />
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,android" alt="Mobile Development" />
+</p>
+
+### 🌐 Backend & Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,react,ts,js,html,css" alt="Backend and Web" />
+</p>
+
+### ☁️ Backend Services & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,gcp" alt="Cloud Services" />
+</p>
+
+### 🔧 Tools & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman,figma" alt="Development Tools" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## ⚙️ My Development Workflow
+
+```text
+💡 Idea
+   ↓
+🎨 UI / UX Design
+   ↓
+📱 Flutter Development
+   ↓
+🔌 REST API Integration
+   ↓
+🔥 Firebase / Supabase / Backend
+   ↓
+🧪 Testing & Debugging
+   ↓
+⚡ Optimization
+   ↓
+🚀 CI/CD
+   ↓
+📦 Play Store / App Store
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anishdandapatdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats (repos, stars, commits, PRs)" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishdandapatdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=anishdandapatdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
+    alt="Anish GitHub Stats"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishdandapatdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+
 </p>
 
 ---
@@ -52,76 +203,278 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anishdandapatdev&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=anishdandapatdev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## 📈 Contribution Activity Graph & Commit Graph
+## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishdandapatdev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=anishdandapatdev&theme=tokyo-night&hide_border=true&area=true&custom_title=Anish%27s%20Contribution%20Activity"
+    alt="Contribution Activity Graph"
+  />
 </p>
 
 ---
 
-## 🏆 Trophies
+## 📌 GitHub Profile Overview
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anishdandapatdev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
-  </a>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishdandapatdev&theme=tokyonight"
+    alt="Profile Details"
+  />
+
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishdandapatdev&theme=tokyonight"
+    alt="Repositories Per Language"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishdandapatdev&theme=tokyonight"
+    alt="Most Commit Language"
+  />
+
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishdandapatdev&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anishdandapatdev&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+  />
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🐍 Contribution Snake
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>📚 MAKstudy</h3>
-      <p>A study app that is live on Google Play, built with Flutter and actively maintained.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-      </p>
-      <a href="https://play.google.com/store/apps/details?id=com.anish.makstudy">▶ View on Google Play</a>
-    </td>
-    <td align="center" width="50%">
-      <h3>✨ Coming Soon</h3>
-      <p>New projects using Next.js, MongoDB and REST APIs are in the works.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-      </p>
-      <a href="https://github.com/anishdandapatdev?tab=repositories">Browse my repositories</a>
-    </td>
-  </tr>
+<p align="center">
+
+  <picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/anishdandapatdev/anishdandapatdev/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/anishdandapatdev/anishdandapatdev/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/anishdandapatdev/anishdandapatdev/output/github-snake.svg"
+  />
+
+  </picture>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=anishdandapatdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"
+    alt="GitHub Trophies"
+  />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<h3>📚 MAKstudy</h3>
+
+<p>
+A student-focused learning platform built for MAKAUT students with study resources and smart learning features.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+</p>
+
+<a href="https://play.google.com/store/apps/details?id=com.anish.makstudy">
+  <img
+    src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white"
+  />
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>🌐 Backend Journey</h3>
+
+<p>
+Currently expanding into backend development and building APIs and server-side applications.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+<a href="https://github.com/anishdandapatdev?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github"
+  />
+</a>
+
+</td>
+
+</tr>
+
 </table>
 
-<!--
-  OPTIONAL: pin-style cards for your GitHub repos.
-  Replace YOUR_REPO_NAME with a real repo name, then remove the comment markers.
+---
 
-<p align="center">
-  <a href="https://github.com/anishdandapatdev/YOUR_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishdandapatdev&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
--->
+## 💻 What I Build
+
+```text
+╔════════════════════════════════════════╗
+║                                        ║
+║          📱 Mobile Applications        ║
+║                    +                   ║
+║          🔥 Backend Services           ║
+║                    +                   ║
+║          🤖 AI Integrations            ║
+║                    +                   ║
+║          ☁️ Cloud Infrastructure       ║
+║                    +                   ║
+║          🚀 Production Deployment      ║
+║                    ↓                   ║
+║          🧩 Real-World Products        ║
+║                                        ║
+╚════════════════════════════════════════╝
+```
 
 ---
 
-## 🤝 Let's Connect
+# 💼 Experience
+
+### 📱 App Development Intern — Digontom Pvt. Ltd.
+
+Worked on Flutter-based production applications including:
+
+- Mobile UI development
+- REST API integration
+- Application architecture
+- Debugging & optimization
+- Production-level features
+
+### 📱 Flutter Developer Intern — EduTips
+
+Worked on Flutter application development and contributed to real-world mobile application features.
+
+---
+
+# 🌍 Open Source & Collaboration
+
+I'm interested in collaborating on:
+
+- 📱 Flutter Applications
+- 🌐 Full-Stack Applications
+- 🤖 AI-powered Products
+- 🎓 EdTech Platforms
+- 🧩 Developer Tools
+- 🚀 Startup & SaaS Ideas
+
+> **Have an interesting idea? Let's build something awesome together. 🚀**
+
+---
+
+# 💬 Ask Me About
 
 <p align="center">
-  I'm open to collaborations, freelance Flutter work and interesting product ideas.<br/>
-  <b>Drop me a message at <a href="mailto:anishdandapat.dev@gmail.com">anishdandapat.dev@gmail.com</a></b>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/App_Deployment-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/anishdandapat">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Anish_Dandapat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+<a href="mailto:anishdandapat.dev@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-anishdandapat.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+
+<a href="https://github.com/anishdandapatdev">
+  <img
+    src="https://img.shields.io/badge/GitHub-anishdandapatdev-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.anish.makstudy">
+  <img
+    src="https://img.shields.io/badge/Google_Play-MAKstudy-34A853?style=for-the-badge&logo=googleplay&logoColor=white"
+  />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Building • Learning • Shipping • Repeating 🚀</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="footer" />
+  <i>Thanks for visiting my profile! 👨‍💻</i>
+</p>
+
+<p align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"
+    alt="Footer"
+  />
+
 </p>
