@@ -186,13 +186,13 @@ I enjoy taking an idea from:
 
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=anishdandapatdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=anishdandapatdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
     alt="Anish GitHub Stats"
   />
 
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishdandapatdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=anishdandapatdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 
@@ -215,7 +215,7 @@ I enjoy taking an idea from:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=anishdandapatdev&theme=tokyo-night&hide_border=true&area=true&custom_title=Anish%27s%20Contribution%20Activity"
+    src="https://github-activity-graph.vercel.app/graph?username=anishdandapatdev&theme=tokyo-night&hide_border=true&area=true&custom_title=Anish%27s%20Contribution%20Activity"
     alt="Contribution Activity Graph"
   />
 </p>
