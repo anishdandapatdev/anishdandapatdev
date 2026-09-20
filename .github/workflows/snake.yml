@@ -23,11 +23,11 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake to output branch
+      - name: Publish snake to gh-pages branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: gh-pages
           build_dir: dist
-          branch: output
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
