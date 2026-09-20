@@ -436,31 +436,25 @@ I'm interested in collaborating on:
 # 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://linkedin.com/in/anishdandapat">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Anish_Dandapat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-
-<a href="mailto:anishdandapat.dev@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-anishdandapat.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
-
-<a href="https://github.com/anishdandapatdev">
-  <img
-    src="https://img.shields.io/badge/GitHub-anishdandapatdev-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.anish.makstudy">
-  <img
-    src="https://img.shields.io/badge/Google_Play-MAKstudy-34A853?style=for-the-badge&logo=googleplay&logoColor=white"
-  />
-</a>
-
+  <a href="https://linkedin.com/in/anishdandapat" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/anishdandapat" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:anishdandapat.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anishdandapatdev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.anish.makstudy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=android" alt="MAKstudy on Google Play" width="48" height="48" />
+  </a>
 </p>
 
 ---
