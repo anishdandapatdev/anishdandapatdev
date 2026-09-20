@@ -233,33 +233,36 @@ I enjoy taking an idea from:
 
 </p>
 
-<p align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishdandapatdev&theme=tokyonight"
-    alt="Repositories Per Language"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishdandapatdev&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishdandapatdev&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anishdandapatdev&theme=tokyonight&utcOffset=5.5"
-    alt="Productive Time"
-  />
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishdandapatdev&theme=tokyonight"
+        alt="Repositories Per Language"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishdandapatdev&theme=tokyonight"
+        alt="Most Commit Language"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishdandapatdev&theme=tokyonight"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anishdandapatdev&theme=tokyonight&utcOffset=5.5"
+        alt="Productive Time"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
