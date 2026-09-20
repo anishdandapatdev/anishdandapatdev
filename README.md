@@ -295,7 +295,7 @@ I enjoy taking an idea from:
 <p align="center">
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=anishdandapatdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"
+    src="https://github-profile-trophy-unserori.vercel.app/?username=anishdandapatdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"
     alt="GitHub Trophies"
   />
 
